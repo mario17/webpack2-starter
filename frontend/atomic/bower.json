@@ -1,0 +1,26 @@
+{
+  "name": "yarn-webpack",
+  "description": "Test example with webpack and yarn",
+  "main": "index.js",
+  "authors": [
+    "Mariano <mazachi93@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Webpack",
+    "Yarn",
+    "Jquery"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "yosonjs": "^0.0.17-alpha"
+  }
+}
